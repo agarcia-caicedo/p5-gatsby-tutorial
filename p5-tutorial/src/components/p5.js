@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import {loadableP5 as P5Wrapper} from './loadable';
-import Sketch from './sketch';
+import Sketch from './Sketch';
 
 export default class App extends Component{
 

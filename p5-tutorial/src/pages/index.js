@@ -1,4 +1,11 @@
 import React from "react";
-import P5 from "../components/p5"
+import P5 from "../components/p5";
 
-export default () => <P5 />
+const IndexPage = () => (
+    <div>
+        <P5/>
+    </div>
+
+  )
+
+  export default IndexPage

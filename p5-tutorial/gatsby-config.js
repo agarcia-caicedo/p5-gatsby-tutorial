@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  pathPrefix: "/p5-gatsby-tutorial",
 }

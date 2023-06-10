@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@loadable/component": "^5.12.0",
-    "gatsby": "^2.20.12",
+    "gatsby": "^4.25.7",
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
